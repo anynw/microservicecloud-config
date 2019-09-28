@@ -53,7 +53,7 @@ server:
  
 mybatis:
  config-location: classpath:mybatis/mybatis.cfg.xml
- type-aliases-package: com.learn.springcloud.entity
+ type-aliases-package: com.ceair.springcloud.entity
  mapper-locations: classpath:mybatis/mapper/**/*.xml
   
 spring:
